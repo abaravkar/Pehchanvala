@@ -1,0 +1,4 @@
+@extends('admin.layout')
+@section('title','The journal')
+@section('actions')<a class="button primary" href="/admin/posts/create">Write a story +</a>@endsection
+@section('content')<section class="panel"><div class="table-scroll"><table><thead><tr><th>Story</th><th>Category</th><th>Status</th><th></th></tr></thead><tbody>@forelse($items as $item)<tr><td><div class="property-cell"><img src="{{ $item->image }}" alt=""><strong>{{ $item->title }}</strong></div></td><td>{{ $item->category }}</td><td><span class="pill">{{ $item->published?'Published':'Draft' }}</span></td><td><div class="row-actions"><a href="/admin/posts/{{ $item->id }}/edit">Edit ↗</a><form action="/admin/posts/{{ $item->id }}" method="post">@csrf @method('delete')<button class="text-button">Unpublish</button></form></div></td></tr>@empty<tr><td colspan="4" class="empty">No stories yet.</td></tr>@endforelse</tbody></table></div>{{ $items->links('admin.pagination') }}</section>@endsection

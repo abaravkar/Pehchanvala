@@ -1,0 +1,216 @@
+{
+  "properties": [
+    {
+      "id": "the-sunlit-residence",
+      "title": "The sunlit residence",
+      "area": "Koregaon Park",
+      "type": "rent",
+      "kind": "Apartment",
+      "rent": 75000,
+      "sale": 0,
+      "beds": 3,
+      "baths": 3,
+      "size": 1850,
+      "furnished": "Fully furnished",
+      "available": "",
+      "description": "An airy, thoughtfully arranged apartment with an open living area, generous bedrooms and a green outlook. A calm place to come home to, close to the cafés and everyday conveniences of Koregaon Park.",
+      "amenities": [
+        "Balcony",
+        "Covered parking",
+        "Lift",
+        "Security"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=85"
+      ],
+      "map": "Koregaon Park, Pune",
+      "featured": true
+    },
+    {
+      "id": "a-home-above-the-city",
+      "title": "A home above the city",
+      "area": "Baner",
+      "type": "sale",
+      "kind": "Apartment",
+      "rent": 0,
+      "sale": 18500000,
+      "beds": 3,
+      "baths": 3,
+      "size": 1620,
+      "furnished": "Semi furnished",
+      "available": "",
+      "description": "Bright living spaces, a generous balcony and room to make it your own. This example residence brings together the convenience of Baner with the ease of a considered home.",
+      "amenities": [
+        "Balcony",
+        "Parking",
+        "Clubhouse",
+        "Security"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85"
+      ],
+      "map": "Baner, Pune",
+      "featured": true
+    },
+    {
+      "id": "a-little-room-to-belong",
+      "title": "A little room to belong",
+      "area": "Viman Nagar",
+      "type": "pg",
+      "kind": "PG / Shared living",
+      "rent": 12500,
+      "sale": 0,
+      "beds": 2,
+      "baths": 1,
+      "size": 280,
+      "furnished": "Fully furnished",
+      "available": "2026-11-01",
+      "sharing": "Twin sharing",
+      "deposit": 25000,
+      "meals": "Breakfast & dinner",
+      "description": "A comfortable shared living option with the everyday essentials taken care of. Designed for students and working professionals looking for an easy start in Pune.",
+      "amenities": [
+        "Wi-Fi",
+        "Housekeeping",
+        "Meals",
+        "Laundry access"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=85"
+      ],
+      "map": "Viman Nagar, Pune",
+      "featured": true
+    },
+    {
+      "id": "the-garden-address",
+      "title": "The garden address",
+      "area": "Kalyani Nagar",
+      "type": "both",
+      "kind": "Apartment",
+      "rent": 68000,
+      "sale": 16500000,
+      "beds": 3,
+      "baths": 2,
+      "size": 1450,
+      "furnished": "Semi furnished",
+      "available": "2026-11-15",
+      "description": "A green outlook and a practical layout in a well-connected neighbourhood. Available to explore for rent or purchase; speak with the agency about the option that fits your plans.",
+      "amenities": [
+        "Garden view",
+        "Balcony",
+        "Parking",
+        "Lift"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85"
+      ],
+      "map": "Kalyani Nagar, Pune",
+      "featured": false
+    },
+    {
+      "id": "space-for-your-next-chapter",
+      "title": "Space for your next chapter",
+      "area": "Wakad",
+      "type": "sale",
+      "kind": "Apartment",
+      "rent": 0,
+      "sale": 9800000,
+      "beds": 2,
+      "baths": 2,
+      "size": 1080,
+      "furnished": "Unfurnished",
+      "available": "",
+      "description": "A simple, adaptable home with light-filled rooms and a practical two-bedroom plan. An illustrative option for buyers exploring the western side of Pune.",
+      "amenities": [
+        "Parking",
+        "Lift",
+        "Security",
+        "Play area"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85"
+      ],
+      "map": "Wakad, Pune",
+      "featured": false
+    },
+    {
+      "id": "an-easier-everyday",
+      "title": "An easier everyday",
+      "area": "Hinjawadi",
+      "type": "pg",
+      "kind": "PG / Shared living",
+      "rent": 9500,
+      "sale": 0,
+      "beds": 3,
+      "baths": 1,
+      "size": 320,
+      "furnished": "Fully furnished",
+      "available": "2026-11-10",
+      "sharing": "Triple sharing",
+      "deposit": 19000,
+      "meals": "Optional meal plan",
+      "description": "An easy-to-manage shared stay for working professionals. A furnished room, practical facilities and a location connected to the Hinjawadi IT area.",
+      "amenities": [
+        "Wi-Fi",
+        "Housekeeping",
+        "Power backup",
+        "Laundry access"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=85",
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=85"
+      ],
+      "map": "Hinjawadi, Pune",
+      "featured": false
+    }
+  ],
+  "posts": [
+    {
+      "id": "finding-your-pune",
+      "category": "NEIGHBOURHOOD NOTES",
+      "title": "Finding your kind of Pune",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=85",
+      "summary": "A neighbourhood is more than a pin on a map. Start with how you want your everyday life to feel.",
+      "body": [
+        "Before making a shortlist, think about an ordinary Tuesday. Where will you work? How far do you want to travel? Do you prefer a quiet walk or a lively café around the corner?",
+        "Koregaon Park, Baner, Viman Nagar and Hinjawadi each offer different surroundings. Visit the locality at the times you would normally travel, and check everyday essentials in person.",
+        "Share your priorities with the agency: commute, budget, space and the things you cannot compromise on. A focused conversation can make the search more manageable."
+      ]
+    },
+    {
+      "id": "before-you-rent",
+      "category": "THE RENTAL EDIT",
+      "title": "A few things to ask before you rent",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=85",
+      "summary": "The small questions that help you understand the full picture before choosing your next home.",
+      "body": [
+        "Ask what the quoted rent includes. Maintenance, parking, utilities and any furnishing charges can change the overall monthly cost.",
+        "Confirm the available date, deposit, notice period and move-in condition. Request the written terms before making a payment.",
+        "Walk through the home, check the fixtures, and make a clear record of its condition. This article is an illustrative checklist, not advice about a particular agreement."
+      ]
+    },
+    {
+      "id": "a-better-shared-stay",
+      "category": "LIVING WELL",
+      "title": "What makes a shared stay feel like home?",
+      "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=85",
+      "summary": "Looking beyond the bed: sharing, meals and everyday comforts that make the difference.",
+      "body": [
+        "Check the sharing arrangement, storage, bathroom access and house rules before choosing a PG. The details matter as much as the photograph.",
+        "Ask about meal timings, Wi-Fi, housekeeping, laundry, visitors and any additional charges. Confirm which services are included in the advertised price.",
+        "Availability and deposits can change. Talk to the agency, arrange a visit and confirm the written terms before paying."
+      ]
+    }
+  ]
+}

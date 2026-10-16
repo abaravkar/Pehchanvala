@@ -86,4 +86,3 @@ The tests use a forced, isolated SQLite memory database; they never reset the lo
 The public frontend currently retains the preview's hash routes. A public SEO launch should replace these with prerendered/Blade property and journal URLs, and approved listing metadata. This delivery is a local CMS application; the earlier hosted HTML preview and the existing pehchanvala.com were not changed.
 
 Stock photos, maps and fonts use external providers. Replace representative photography with approved assets and supply final business/legal policies before launch. Do not expose the local debug server or database to the internet.
-
